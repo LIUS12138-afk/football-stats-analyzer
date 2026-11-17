@@ -1,0 +1,3 @@
+# 本项目只使用 Python 标准库，没有第三方运行时依赖。
+# 如需参与开发，可用 Python 3.9+，测试直接用标准库 unittest：
+#   python -m unittest discover -s tests -v
